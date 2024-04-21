@@ -17,6 +17,7 @@ Nuevamente he ido mucho más allá de lo solicitado realizado lo siguiente adici
 - [Solución al Desafío - Collage de imágenes](#solución-al-desafío---collage-de-imágenes)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Requisitos](#requisitos)
+  - [Deploy](#deploy)
   - [Proyecto 100% Responsivo](#proyecto-100-responsivo)
     - [Proyecto en Pantallas Grandes](#proyecto-en-pantallas-grandes)
       - [1-Home en Pantallas Grandes](#1-home-en-pantallas-grandes)
@@ -46,6 +47,10 @@ Nuevamente he ido mucho más allá de lo solicitado realizado lo siguiente adici
 
 ![Requisitos 1 y 2](./screenshots/requisitos_1_2.webp)
 ![Requisitos 3](./screenshots/requisitos_3.webp)
+
+## Deploy
+
+El proyecto es completamente funcional y esta desplegado en render en el siguiente [link](https://collage-de-imagenes.onrender.com/)
 
 ## Proyecto 100% Responsivo
 
