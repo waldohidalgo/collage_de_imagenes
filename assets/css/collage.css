@@ -1,0 +1,72 @@
+.main_collage {
+  background-color: #eee;
+  font-family: "Merriweather", serif;
+  text-align: center;
+  padding: 10px;
+}
+
+.elemento-imagen {
+  background-position: center;
+  border: 1px solid black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main_collage h1 {
+  width: fit-content;
+  margin-inline: auto;
+}
+.uno {
+  grid-area: uno;
+}
+.dos {
+  grid-area: dos;
+}
+.tres {
+  grid-area: tres;
+}
+.cuatro {
+  grid-area: cuatro;
+}
+.cinco {
+  grid-area: cinco;
+}
+.grid-container {
+  margin: auto;
+  background: white;
+  display: grid;
+  grid-template-areas: "uno . tres" "uno cinco cuatro" ". . cuatro" "dos dos cuatro";
+  grid-gap: 3px;
+  text-shadow: 1px 1px 1px black;
+  padding: 3px;
+}
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.grid-container div:nth-child(1) {
+  background-image: url("/imagenes/imagen-1.jpg");
+}
+.grid-container div:nth-child(2) {
+  background-image: url("/imagenes/imagen-2.jpg");
+}
+.grid-container div:nth-child(3) {
+  background-image: url("/imagenes/imagen-3.jpg");
+}
+.grid-container div:nth-child(4) {
+  background-image: url("/imagenes/imagen-4.jpg");
+}
+.grid-container div:nth-child(5) {
+  background-image: url("/imagenes/imagen-5.jpg");
+}
+.grid-container div:nth-child(6) {
+  background-image: url("/imagenes/imagen-6.jpg");
+}
+.grid-container div:nth-child(7) {
+  background-image: url("/imagenes/imagen-7.jpg");
+}
+.grid-container div:nth-child(8) {
+  background-image: url("/imagenes/imagen-8.jpg");
+}

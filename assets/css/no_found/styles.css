@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+.no_found_section {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.no_found_contenedor_imagen {
+  background-size: cover;
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+}
+
+.no_found_title {
+  font-size: 80px;
+
+  font-weight: 700;
+  font-family: "Carter One", system-ui;
+  padding-top: 1rem;
+}
+
+.no_found_description {
+  font-family: "Carter One", system-ui;
+  color: red;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.no_found_subtitulo {
+  font-family: "Carter One", system-ui;
+  font-weight: 700;
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+.no_found_link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #39ac31;
+  margin: 40px 0;
+  display: inline-block;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid black;
+}
+.no_found_link_404:hover {
+  background: blue;
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+.no_found_link_404 a {
+  text-decoration: none;
+  color: white;
+}
+.no_found_link_404 a:hover {
+  color: white;
+}
+.no_found_contenedor_detalle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

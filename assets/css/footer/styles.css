@@ -1,0 +1,23 @@
+.footer {
+  padding-block: 1rem;
+  background-color: black;
+}
+.footer_contenido {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  max-width: 200px;
+}
+.footer_contenido p {
+  margin-bottom: 0;
+}
+.logo {
+  width: 100%;
+}
+
+.logo img {
+  width: 100%;
+}
