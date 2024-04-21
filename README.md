@@ -2,7 +2,7 @@
 
 Repositorio con el código solución al desafío 2: Collage de Imágenes del módulo 8 **Implementación de API backend Node Express** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dada por Talento Digital para Chile y dictada por Desafío Latam.
 
-Nuevamente he ido mucho más allá de lo solicitado realizado lo siguiente adicional:
+Nuevamente he ido mucho más allá de lo solicitado realizando lo siguiente como adicional:
 
 -Proyecto 100% Responsivo
 
