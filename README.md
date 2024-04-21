@@ -1,12 +1,15 @@
 # Solución al Desafío - Collage de imágenes
 
-Repositorio con el código solución al desafío 2: Collage de Imagenes del módulo 8 **Implementación de API backend Node Express** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dada por Talento Digital para Chile y dictada por Desafío Latam.
+Repositorio con el código solución al desafío 2: Collage de Imágenes del módulo 8 **Implementación de API backend Node Express** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dada por Talento Digital para Chile y dictada por Desafío Latam.
 
 Nuevamente he ido mucho más allá de lo solicitado realizado lo siguiente adicional:
 
 -Proyecto 100% Responsivo
+
 -Eliminación de Cache de modo de actualizar el front end de manera inmediata ante cambios en el servidor
+
 -Dos maneras de Resetear la data ya sea mediante ruta o mediante intervalo de tiempo
+
 -Creación de vistas 404 (ruta no encontrada) y 413(archivo supera el límite máximo permitido de 5 MB)
 
 ## Tabla de Contenidos
